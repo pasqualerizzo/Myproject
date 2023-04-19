@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.quadrato{
+    border: 100px;   
+    width:1000px;
+    border-radius: 10px;
+    height: 600px;
+    background-color:rgba(0, 0, 0, 0.508);
+    padding: 50px;
+    margin-top: 5%;
+}
+.sfondo{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.lim{
+    zoom: 30%;
+}
+.titolo{
+    color: #00dd00;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.banner{
+    width: 900px;
+    height: 30px;
+    display: inline block;
+    background-color: #00dd00;
+    margin-bottom: 20px;  
+}
+.submit{
+    align-self: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.monopattino{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.indirizzi{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+    color: white;
+    text-align: left;
+}
+.arancione{
+    width: 400px;
+    height: 25px;
+    background-color: #cfaa25;
+    border-radius: 3px;
+    margin-inline-end: auto;
+    margin-bottom: 10px;
+}
+.verde{
+    width: 600px;
+    height: 25px;
+    background-color: #36c017;
+    border-radius: 3px;
+    margin-inline-end: auto;
+    margin-bottom: 10px;
+}
+.rosso{
+    width: 200px;
+    height: 25px;
+    background-color: #a72f14;
+    border-radius: 3px;
+    margin-inline-end: auto;
+}
